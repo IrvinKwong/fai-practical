@@ -48,6 +48,8 @@ git config --global user.email "your.email@example.com"
    - Click "Compare & pull request"
    - Add description and submit
 
+8. **Testing**
+
 ### Daily Workflow
 ```bash
 git pull origin main    # Get latest changes
